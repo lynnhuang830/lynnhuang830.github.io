@@ -13,6 +13,15 @@ Sun公司：1995年推出Java 1.0 <br>
 #### JDK（```Java Development Kit```）
 是Java程序开发工具包，**包含JRE**和开发人员使用的工具：编译工具（**javac.exe**）和运行工具（**java.exe**）<br>
 ∴ 如果是**开发**一个Java程序，那么需要JDK <br>
+##### JDK安装目录
+1. **bin**：JDK的各种工具命令 - javac 和 java
+2. conf：JDK的相关配置文件
+3. include：平台特定的头文件
+4. jmods：JDK的各种模块
+5. legal：各模块的授权文档
+6. lib：JDK工具的补充JAR包
+#### JDK / JRE / JVM
+![image](https://user-images.githubusercontent.com/79901343/123616248-b0bee200-d838-11eb-930d-e3a0622fbc0a.png)
 ### 冯·诺依曼体系结构
 知识点需要扩充
 
